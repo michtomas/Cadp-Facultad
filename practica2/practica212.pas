@@ -1,3 +1,6 @@
+{Realice un programa que lea datos de 130 programadores Java de una empresa. De cada
+programador se lee el número de legajo y el salario actual. El programa debe imprimir el total del dinero
+destinado por mes al pago de salarios, y el salario del empleado mayor legajo}
 program programadores;
  procedure leerDatos(var legajo: integer; salario : real);
  begin
